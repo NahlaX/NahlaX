@@ -7,5 +7,5 @@
 
 Hi, I'm NX
 
-- 🔭 I’m currently working on [Microsoft Tableau]
+- 🔭 I’m currently working on Microsoft Tableau
 - 🌱 I’m currently learning Auditing and Taxation!
