@@ -9,3 +9,4 @@ Hi, I'm NX
 
 - 🔭 I’m currently working on Microsoft Tableau
 - 🌱 I’m currently learning Auditing and Taxation!
+- 💸I'm aspiring to be a forensic Accountant
