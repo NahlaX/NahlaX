@@ -7,6 +7,6 @@
 
 Hi, I'm Nahla
 
-- 🔭 I’m currently working on Microsoft Tableau
-- 🌱 I’m currently learning Auditing and Taxation!
+- 🔭 I love studying deeply in Tax and Auditing!
+- 🌱 I’m currently on a journey to learn Data Analytics!
 - 💸I'm aspiring to be a forensic Accountant
