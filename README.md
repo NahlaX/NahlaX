@@ -9,4 +9,5 @@ Hi, I'm Nahla
 
 - 🔭 I love studying deeply in Tax and Auditing!
 - 🌱 I’m currently on a journey to learn Data Analytics!
+- 🧩 I'm aspiring to be a CPA! 
 - 💸I'm aspiring to be a forensic Accountant
